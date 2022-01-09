@@ -58,6 +58,8 @@ Here are some ideas to get you started:
 </p>
 -->
 
+<!-- <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Gapur&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" /> -->
+
 ### 🤝🏻 &nbsp;Connect with Me
 
 <p id="socialIcons" align="center">
@@ -72,6 +74,3 @@ Here are some ideas to get you started:
     <a href="https://www.instagram.com/achalkagwad/" alt="Instagram">
         <img src="https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" /></a>  
 </p>
-
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Gapur&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
