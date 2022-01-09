@@ -47,6 +47,17 @@ Here are some ideas to get you started:
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp; -->
 
+<!--
+### ⚙️ &nbsp;GitHub Stats
+
+<p align="center">
+<a href="https://github.com/achalkagwad">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=achalkagwad&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=achalkagwad&layout=compact&langs_count=8&theme=algolia"/>
+</a>
+</p>
+-->
+
 ### 🤝🏻 &nbsp;Connect with Me
 
 <p id="socialIcons" align="center">
@@ -63,3 +74,4 @@ Here are some ideas to get you started:
 </p>
 
 
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Gapur&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
