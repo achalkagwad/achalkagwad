@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 ### 👨🏻‍💻 &nbsp;About Me
 
-💡 &nbsp;I have more than 10 plus years of IT Business and Life Experience :).\
+💡 &nbsp;I have more than 10 plus years of IT, Business and Life Experience :).\
 🎓 &nbsp;I'm currently undergoing Masters in Data Science and Machine Learning with Liverpool John Moores University with edtech partner Upgrad.\
 🌱 &nbsp;I'm looking to solve typical ecommerce and consumer marketing problems in that value chain and using data and machine learning. I am in the process to enhance and build domain knowledge and typical Data and ML skills necessary to solve such problems. \
 ✍️ &nbsp;Before stepping into the world of data science with consumer marketing I had my own start up dealing with Childrens Holistic Wellbeing. More details on the work we did here:(https://www.thehomecoming.org) and (https://fb.me/dhomecoming) \
@@ -27,3 +27,6 @@ Here are some ideas to get you started:
 📄 &nbsp;Please have a look at my [Résumé](https://www.thehomecoming.org) for more details about me.
 
 ### 🛠 &nbsp;Tech Stack
+![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Editor-IntelliJ_IDEA-informational?style=flat&logo=intellij-idea&logoColor=white&color=2bbc8a)
+
