@@ -60,6 +60,17 @@ Here are some ideas to get you started:
 
 <!-- <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Gapur&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" /> -->
 
+<!--
+## &#x1f4c8; GitHub Stats
+
+<a href="https://github.com/chaddyc/chaddyc">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chaddyc&hide=java,html&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+</a>
+<a href="https://github.com/chaddyc/chaddyc">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=chaddyc&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Chad GitHub Stats" />
+</a>
+-->
+
 ### 🤝🏻 &nbsp;Connect with Me
 
 <p id="socialIcons" align="center">
