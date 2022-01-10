@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 🎓 &nbsp; I hold a B.E degree in Computer Science(graduated back in 2010). Recently completed Post Graduate Program in Data Science and Machine Learning with edtech partner Upgrad. I'm currently undergoing Masters in Data Science and Machine Learning with Liverpool John Moores University Upgrad.\
 🌱 &nbsp;I'm looking to solve typical ecommerce and consumer marketing problems in that value chain, using data and machine learning, working alongside cross functional teams. I am in the process to enhance and build domain knowledge and typical Data and ML skills necessary to solve such problems. \
 ✍️ &nbsp;Before stepping into the world of data science with consumer marketing I served as founder and business owner in my start up dealing with Children's Holistic(Physical, Emotional and Spiritual) Wellbeing. More details on the work we did here:(https://www.thehomecoming.org) and (https://fb.me/dhomecoming) \
-✍️ &nbsp;To recharge my batteries I use yoga and yogic tools, hitting the gym, reading entrepreneurial and business books and off lately playing the Djembe(African Musical Instrument) \
+✍️ &nbsp;To recharge my batteries(keep balance between left and right brains) I use yoga and yogic tools, hitting the gym, reading entrepreneurial and business books and off lately playing the Djembe(African Musical Instrument) \
 💬 &nbsp;I am open to connect, have quality discussions and build network. I am mostly active on Email, LinkedIn and Facebook\
 ✉️ &nbsp;You can shoot me an email at achal.kagwad@gmail.com ! I'll try to respond as soon as I can.\
 📄 &nbsp;Please have a look at my [Résumé](https://www.thehomecoming.org) for more details about me.
@@ -46,6 +46,35 @@ Here are some ideas to get you started:
 <!-- ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp; -->
+
+### Coding, Data Science and Machine learning Knowledge:
+- Strong Statistical Foundation
+- Exploratory Data Analysis
+- Linear Regression, Logistic Regression, Clustering, Decision Trees, Random Forests, Ensemble Methods
+- Model Development & Evaluation Metrics
+- Basics of Cloud and AWS for model deployment(ML-OPS)
+- Android UI/App development with Object Oriented Programming, Model View Controller Framework, Design Patterns, SOLID Principles, Client Server Architecture,REST and SOAP APIs
+
+### Business Analysis Skills:
+- Structured Problem Solving Frameworks: CRISP-DM, 5Ws, 5Whys, Issue Tree Framework, SPIN(Situation, Problem, Implication, Need Payoff), BMC(Business Model Canvas), 7P and 5C Frameworks for Marketing, SWOT analysis.
+- PRINCE2 Foundation and Practitioner Certified Project Management Skills
+- Visualization and Data Story Telling
+
+### Business Domain Knowledge in Ecommerce and Consumer Marketing:
+- Inventory Management
+- Customer Acquisition
+- Marketing: Price Optimization and Market Mix Modelling, Cross Sell
+- User Experience: Recommendation Systems, Retention Management
+- Customer Life Cycle: Fraud Detection, Shipment Delivery Optimization, Customer Feedback and Sentiment Analysis
+- Strategic Thinking For Growth and Revenue
+
+### Business and People Handling Traits:
+- Customer/Relationship Oriented, Start with Why Approach
+- Strong Communicator and negotiator: Listening, Speaking, Reading, Writing
+- Results Oriented:Part of Solution rather than part of Problem
+- Good Business Judgement
+- Proactive, Begin with End in Mind, Organised and long term strategic thinking, Think Win-Win and synergise
+- Effective balance of the left(logical, literal, linguisitc) brain and right(intuitive, creative) brain
 
 <!--
 ### ⚙️ &nbsp;GitHub Stats
