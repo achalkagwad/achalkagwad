@@ -73,7 +73,7 @@ Here are some ideas to get you started:
 - Strong Communicator and negotiator: Listening, Speaking, Reading, Writing
 - Results Oriented:Part of Solution rather than part of Problem
 - Good Business Judgement
-- Proactive, Begin with End in Mind, Organised and long term strategic thinking, Think Win-Win and synergise
+- Proactive, Begin with End in Mind, Organised and long term strategic thinking, Think Win-Win and Synergize
 - Effective balance of the left(logical, literal, linguisitc) brain and right(intuitive, creative) brain
 
 <!--
