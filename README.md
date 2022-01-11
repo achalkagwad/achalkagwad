@@ -76,7 +76,7 @@ Here are some ideas to get you started:
 - Proactive, Begin with End in Mind, Organised and long term strategic thinking, Think Win-Win and Synergize
 - Effective balance of the left(logical, literal, linguisitc) brain and right(intuitive, creative) brain
 
-<!--
+
 ### ⚙️ &nbsp;GitHub Stats
 
 <p align="center">
@@ -85,7 +85,7 @@ Here are some ideas to get you started:
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=achalkagwad&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
--->
+
 
 <!-- <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Gapur&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" /> -->
 
