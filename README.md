@@ -54,10 +54,11 @@ Here are some ideas to get you started:
 - Model Development & Evaluation Metrics
 - Basics of Cloud and AWS for model deployment(ML-OPS)
 - Android UI/App development with Object Oriented Programming, Model View Controller Framework, Design Patterns, SOLID Principles, Client Server Architecture,REST and SOAP APIs
+- **Sun Certified Java Programmer(SCJP) now Oracle (Back in 2009)**
 
 ### Business Analysis Skills:
 - Structured Problem Solving Frameworks: CRISP-DM, 5Ws, 5Whys, Issue Tree Framework, SPIN(Situation, Problem, Implication, Need Payoff), BMC(Business Model Canvas), 7P and 5C Frameworks for Marketing, SWOT analysis.
-- PRINCE2 Foundation and Practitioner Certified Project Management Skills
+- **PRINCE2 Foundation and Practitioner Certified Project Management Skills**
 - Visualization and Data Story Telling
 
 ### Business Domain Knowledge in Ecommerce and Consumer Marketing:
