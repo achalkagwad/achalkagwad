@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 ✍️ &nbsp;To recharge my batteries(keep balance between left and right brains) I use yoga and yogic tools, hitting the gym, reading entrepreneurial and business books and off lately playing the Djembe(African Musical Instrument) \
 💬 &nbsp;I am open to connect, have quality discussions and build network. I am mostly active on Email, LinkedIn and Facebook\
 ✉️ &nbsp;You can shoot me an email at achal.kagwad@gmail.com ! I'll try to respond as soon as I can.\
-📄 &nbsp;Please have a look at my [Résumé](https://www.thehomecoming.org) for more details about me.
+📄 &nbsp;Please have a look at my [Résumé](https://www.hiration.com/dieu/resume/308689@upgrad.com/pdf) for more details about me.
 
 ### 🛠 &nbsp;Tech Stack
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=blueviolet)
