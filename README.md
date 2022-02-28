@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 ✍️ &nbsp;Traits that define me: Highly Proactive, Conscientiousness, Think win-win and synergize, Good Product and Business Lifecycle judgement. \
 ✍️ &nbsp;To recharge my batteries(keep balance between left and right brains) I use yoga and yogic tools, hitting the gym, reading books on business, product management, entrepreneurship, politics,  psychology, philosophy and spirituality. Off lately playing the Djembe(African Musical Instrument) \
 💬 &nbsp;I am open to connect, have quality discussions and build network. I am mostly active on Email, LinkedIn and Facebook\
-✉️ &nbsp;You can shoot me an email at achal.kagwad@gmail.com  \
+✉️ &nbsp;You can shoot me an email at achal.kagwad@gmail.com. Would Love to Connect!  \
 📄 &nbsp;Please have a look at my [Résumé](https://www.hiration.com/dieu/resume/308689@upgrad.com/pdf) for more details about me.
 
 ### 🛠 &nbsp;Tech Stack
