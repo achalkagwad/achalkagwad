@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 🌱 &nbsp;I'm looking to solve typical ecommerce and consumer marketing problems in that value chain, using data and machine learning, working alongside cross functional teams. I am in the process to enhance and build domain knowledge and typical Data and ML skills necessary to solve such problems. \
 ✍️ &nbsp;Before stepping into the world of data science with consumer marketing I served as founder and business owner in my start up dealing with Children's Holistic(Physical, Emotional and Spiritual) Wellbeing. We were solving classical new age problems occurring with children such as high screen time, anxiety, isolation and possible depression.  We built offline and online models to render our holistic services. More details on the work we did here:(https://www.thehomecoming.org) and (https://fb.me/dhomecoming) \
 ✍️ &nbsp;Previous Information Technology Experience Includes majorly working on enterprise Android and Web Apps related to VOIP and Ecommerce domains. \
-✍️ &nbsp;Traits that define me: Highly Proactive, Conscientiousness, Think win-win and synergize, Good Product and Business Lifecycle judgement. \
+✍️ &nbsp;Traits that define me: Highly Proactive, Think win-win and synergize, Good Product and Business Lifecycle judgement, Strategic Thinking \
 ✍️ &nbsp;To recharge my batteries(keep balance between left and right brains) I use yoga and yogic tools, hitting the gym, reading books on business, product management, entrepreneurship, politics,  psychology, philosophy and spirituality. Off lately playing the Djembe(African Musical Instrument) \
 💬 &nbsp;I am open to connect, have quality discussions and build network. I am mostly active on Email, LinkedIn and Facebook\
 ✉️ &nbsp;You can shoot me an email at achal.kagwad@gmail.com. Would Love to Connect!  \
@@ -54,7 +54,7 @@ Here are some ideas to get you started:
 - Exploratory Data Analysis
 - Linear Regression, Logistic Regression, Clustering, Decision Trees, Random Forests, Ensemble Methods
 - Model Development & Evaluation Metrics
-- Basics of Cloud and AWS for model deployment(ML-OPS)
+- Basics of Cloud and AWS for model deployment(ML-OPS). **AWS Certified Cloud Practioner** 
 - Android UI/App development with Object Oriented Programming, Model View Controller Framework, Design Patterns, SOLID Principles, Client Server Architecture,REST and SOAP APIs
 - **Sun Certified Java Programmer(SCJP) now Oracle (Back in 2009)**
 
@@ -72,10 +72,9 @@ Here are some ideas to get you started:
 - Strategic Thinking For Growth and Revenue
 
 ### Business and People Handling Traits:
-- Customer/Relationship Oriented, Start with Why Approach
+- Customer/Relationship Oriented-Part of Solution rather than part of Problem, Start with Why Approach
+- Decentralized management by trusting people, vision focused.
 - Strong Communicator and negotiator: Listening, Speaking, Reading, Writing
-- Results Oriented:Part of Solution rather than part of Problem
-- Good Business Judgement
 - Proactive, Begin with End in Mind, Organised and long term strategic thinking, Think Win-Win and Synergize
 - Effective balance of the left(logical, literal, linguisitc) brain and right(intuitive, creative) brain
 
