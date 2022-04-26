@@ -17,13 +17,13 @@ Here are some ideas to get you started:
 
 ### 👨🏻‍💻 &nbsp;About Me
 
-💡 &nbsp;I have more than 10 plus years of IT, Business and Life Experience :).\
-🎓 &nbsp; I hold a B.E degree in Computer Science(graduated back in 2010). Recently completed Post Graduate Program in Data Science and Machine Learning with edtech partner Upgrad. I'm currently undergoing Masters in Data Science and Machine Learning with Liverpool John Moores University Upgrad.\
-🌱 &nbsp;I'm looking to solve typical ecommerce and consumer marketing problems in that value chain, using data and machine learning, working alongside cross functional teams. I am in the process to enhance and build domain knowledge and typical Data and ML skills necessary to solve such problems. \
+💡 &nbsp;I have more than 10 plus years of IT, Business and Life Experience! \
+🎓 &nbsp; I hold a B.E degree in Computer Science(graduated back in 2010). Recently completed Post Graduate Program in Data Science and Machine Learning with edtech partner Upgrad. \
+🌱 &nbsp;I'm looking to manage projects to solve typical ecommerce and consumer marketing problems in that value chain, using data and machine learning, working alongside cross functional teams.\
 ✍️ &nbsp;Before stepping into the world of data science with consumer marketing I served as founder and business owner in my start up dealing with Children's Holistic(Physical, Emotional and Spiritual) Wellbeing. We were solving classical new age problems occurring with children such as high screen time, anxiety, isolation and possible depression.  We built offline and online models to render our holistic services. More details on the work we did here:(https://www.thehomecoming.org) and (https://fb.me/dhomecoming) \
 ✍️ &nbsp;Previous Information Technology Experience Includes majorly working on enterprise Android and Web Apps related to VOIP and Ecommerce domains. \
-✍️ &nbsp;Traits that define me: Highly Proactive, Think win-win and synergize, Good Product and Business Lifecycle judgement, Strategic Thinking \
-✍️ &nbsp;To recharge my batteries(keep balance between left and right brains) I use yoga and yogic tools, hitting the gym, reading books on business, product management, entrepreneurship, politics,  psychology, philosophy and spirituality. Off lately playing the Djembe(African Musical Instrument) \
+✍️ &nbsp;Traits that define me: Highly Proactive, Think win-win and synergize, Good Product and Business Lifecycle judgement, Strategic Thinking, Efficient Stakeholder Management. \
+✍️ &nbsp;To recharge my batteries(keep balance between left and right brains) I use yoga and yogic tools, hitting the gym, reading books on business, product management, entrepreneurship, psychology, philosophy and spirituality. Off lately playing the Djembe(African Musical Instrument) \
 💬 &nbsp;I am open to connect, have quality discussions and build network. I am mostly active on Email, LinkedIn and Facebook\
 ✉️ &nbsp;You can shoot me an email at achal.kagwad@gmail.com. Would Love to Connect!  \
 📄 &nbsp;Please have a look at my [Résumé](https://www.hiration.com/dieu/resume/308689@upgrad.com/pdf) for more details about me.
@@ -72,7 +72,7 @@ Here are some ideas to get you started:
 - Strategic Thinking For Growth and Revenue
 
 ### Business and People Handling Traits:
-- Customer/Relationship Oriented-Part of Solution rather than part of Problem, Start with Why Approach
+- Efficient Stakeholder management. Customer/Relationship Oriented-Part of Solution rather than part of Problem, Start with Why Approach
 - Decentralized management by trusting people, vision focused.
 - Strong Communicator and negotiator: Listening, Speaking, Reading, Writing
 - Proactive, Begin with End in Mind, Organised and long term strategic thinking, Think Win-Win and Synergize
