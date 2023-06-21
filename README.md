@@ -18,8 +18,8 @@ Here are some ideas to get you started:
 ### 👨🏻‍💻 &nbsp;About Me
 
 💡 &nbsp;I have more than 11 plus years of IT, Business and Life Experience! \
-🎓 &nbsp; I hold a B.E degree in Computer Science(graduated back in 2010). Recently completed Post Graduate Program in Data Science and Machine Learning with edtech partner Upgrad. \
-🌱 &nbsp;I'm looking to build products, manage projects to solve typical Consumer Marketing Ecommerce, Energy, Healthcare, Securities and Insurance problems in that value chain/Domain, using Data and Machine Learning, working alongside cross functional teams. \
+🎓 &nbsp; I hold a B.E degree in Computer Science(graduated back in 2010). Recently completed Post Graduate Program in Machine Learning and product management with edtech partner Upgrad. \
+🌱 &nbsp;I'm looking to build products, manage projects to solve typical Consumer Marketing Ecommerce, Travel, Energy, Healthcare, Securities and Insurance problems in that value chain/Domain, using Data and Machine Learning, working alongside cross functional teams. \
 ✍️ &nbsp;Before pivoting myself to build data science and AI enabled products , I served as founder and business owner in my start up(www.thehomecoming.org) dealing with Children's Holistic(Physical, Emotional and Spiritual) Wellbeing. We were solving classical new age problems occurring with children such as high screen time, anxiety, isolation and possible depression. We built offline and online models to render our holistic services. More details on the work we did here:(https://www.thehomecoming.org) and (https://fb.me/dhomecoming) \
 ✍️ &nbsp;Previous Information Technology Experience Includes majorly working on enterprise Android and Web Apps related to VOIP and Ecommerce domains. I have had the privileges to work with some of the finest minds and teams in this journey. \
 ✍️ &nbsp;Traits that define me: Highly Proactive, Resilient, Conscientiousness, Think win-win and synergize, Good Product and Business Lifecycle judgement, Strategic Thinking-De Bono Six Hat Thinker, Efficient Stakeholder Management. \
