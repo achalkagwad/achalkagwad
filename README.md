@@ -52,7 +52,7 @@ Here are some ideas to get you started:
 ### Coding, Data Science and Machine learning Knowledge:
 - Strong Statistical Foundation
 - Exploratory Data Analysis
-- Linear Regression, Logistic Regression, Clustering, Decision Trees, Random Forests, Ensemble Methods
+- Linear Regression, Logistic Regression, Clustering, Decision Trees, Random Forests, Ensemble Methods, Regularization, Boosting
 - Model Development & Evaluation Metrics
 - Basics of Cloud and AWS for model deployment(ML-OPS). **AWS Certified Cloud Practioner** 
 - Android UI/App development with Object Oriented Programming, Model View Controller Framework, Design Patterns, SOLID Principles, Client Server Architecture,REST and SOAP APIs
@@ -60,18 +60,16 @@ Here are some ideas to get you started:
 
 ### Business Analysis and Project Management Skills:
 - Structured Problem Solving Frameworks: CRISP-DM, 5Ws, 5Whys, Issue Tree Framework, SPIN(Situation, Problem, Implication, Need Payoff), BMC(Business Model Canvas), 7P and 5C Frameworks for Marketing, SWOT analysis.
+- Tableau, Excel,Visualization and Data Story Telling
 - **PRINCE2 Foundation and Practitioner Certified Project Management Skills**
-- Visualization and Data Story Telling
 
-### Business Domain Knowledge in Ecommerce and Consumer Marketing:
-- Inventory Management
-- Customer Acquisition
-- Marketing: Price Optimization and Market Mix Modelling, Cross Sell
-- User Experience: Recommendation Systems, Retention Management
+### Product Management Knowledge/Skills:
+- Design Thinking, Market, Users, Vision, Strategy, Wireframes, Usability Testing, Agile-Scrum, Epics, User Stories, PRDs, Metrics of Product Analytics.
+- Relevant Frameworks: PESTEL, Porters 5 Forces, SPIN, BMC, AARRR, RARRA, JBTD, RFM, HOOK, RICE(prioritization), Ansoff Matrix for Prod release, [Analyze, Ideate, Priortize, Test] Framework 
 - Customer Life Cycle: Fraud Detection, Shipment Delivery Optimization, Customer Feedback and Sentiment Analysis
-- Strategic Thinking For Growth and Revenue
 
-### Business and People Handling Traits:
+
+### People Handling Traits:
 - Efficient Stakeholder management. Customer/Relationship Oriented-Part of Solution rather than part of Problem, Start with Why Approach
 - Decentralized management by trusting people, vision focused.
 - Strong Communicator and negotiator: Listening, Speaking, Reading, Writing
