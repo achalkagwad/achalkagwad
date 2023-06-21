@@ -65,7 +65,7 @@ Here are some ideas to get you started:
 
 ### Product Management Knowledge/Skills:
 - Design Thinking, Market, Users, Vision, Strategy, Wireframes, Usability Testing, Agile-Scrum, Epics, User Stories, PRDs, Metrics of Product Analytics.
-- Relevant Frameworks: PESTEL, Porters 5 Forces, SPIN, BMC, AARRR, RARRA, JBTD, RFM, HOOK, RICE(prioritization), Ansoff Matrix for Prod release, [Analyze, Ideate, Priortize, Test] Framework 
+- Relevant Frameworks: PESTEL, Porters 5 Forces, SPIN, BMC, AARRR, RARRA, JBTD, RFM, HOOK, RICE(prioritization), Ansoff Matrix for Prod release, Growth Hacking: [Analyze, Ideate, Priortize, Test] Framework 
 - Customer Life Cycle: Fraud Detection, Shipment Delivery Optimization, Customer Feedback and Sentiment Analysis
 
 
