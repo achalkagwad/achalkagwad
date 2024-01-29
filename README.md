@@ -17,9 +17,9 @@ Here are some ideas to get you started:
 
 ### 👨🏻‍💻 &nbsp;About Me
 
-💡 &nbsp;I have more than 11 plus years of IT, Business and Life Experience! \
-🎓 &nbsp; I hold a B.E degree in Computer Science(graduated back in 2010). Recently completed Post Graduate Program in Machine Learning and product management with edtech partner Upgrad. \
-🌱 &nbsp;I'm looking to build products, manage projects to solve typical Consumer Marketing Ecommerce, Travel, Energy, Healthcare, Securities and Insurance problems in that value chain/Domain, using Data and Machine Learning, working alongside cross functional teams. \
+💡 &nbsp;I have more than 12 plus years of IT, Business and Life Experience! \
+🎓 &nbsp; I hold a B.E degree in Computer Science(graduated back in 2010). Recently completed Post Graduate Program in Data Science & Product Management with edtech partner Upgrad. \
+🌱 &nbsp;I'm managing projects, products that build software, data and AI enables Products,  working alongside cross functional teams. \
 ✍️ &nbsp;Before pivoting myself to build data science and AI enabled products , I served as founder and business owner in my start up(www.thehomecoming.org) dealing with Children's Holistic(Physical, Emotional and Spiritual) Wellbeing. We were solving classical new age problems occurring with children such as high screen time, anxiety, isolation and possible depression. We built offline and online models to render our holistic services. More details on the work we did here:(https://www.thehomecoming.org) and (https://fb.me/dhomecoming) \
 ✍️ &nbsp;Previous Information Technology Experience Includes majorly working on enterprise Android and Web Apps related to VOIP and Ecommerce domains. I have had the privileges to work with some of the finest minds and teams in this journey. \
 ✍️ &nbsp;Traits that define me: Highly Proactive, Resilient, Conscientiousness, Think win-win and synergize, Good Product and Business Lifecycle judgement, Strategic Thinking-De Bono Six Hat Thinker, Efficient Stakeholder Management. \
@@ -49,31 +49,28 @@ Here are some ideas to get you started:
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp; -->
 
-### Coding, Data Science and Machine learning Knowledge:
-- Strong Statistical Foundation
-- Exploratory Data Analysis
-- Linear Regression, Logistic Regression, Clustering, Decision Trees, Random Forests, Ensemble Methods, Regularization, Boosting
-- Model Development & Evaluation Metrics
+### Data Science and Machine learning | Software Development | Coding Knowledge:
+- Statistical Foundation|Exploratory Data Analysis |Linear Regression, Logistic Regression, Clustering, Decision Trees,Random Forests,Ensemble Methods,Regularization |Model Development & Evaluation Metrics.
+- CRISP-DM Framework | Visualization and Data Story Telling in Python, Excel.
 - Basics of Cloud and AWS for model deployment(ML-OPS). **AWS Certified Cloud Practioner** 
 - Android UI/App development with Object Oriented Programming, Model View Controller Framework, Design Patterns, SOLID Principles, Client Server Architecture,REST and SOAP APIs
 - **Sun Certified Java Programmer(SCJP) now Oracle (Back in 2009)**
 
-### Business Analysis and Project Management Skills:
-- Structured Problem Solving Frameworks: CRISP-DM, 5Ws, 5Whys, Issue Tree Framework, SPIN(Situation, Problem, Implication, Need Payoff), BMC(Business Model Canvas), 7P and 5C Frameworks for Marketing, SWOT analysis.
-- Tableau, Excel,Visualization and Data Story Telling
-- **PRINCE2 Foundation and Practitioner Certified Project Management Skills**
-
-### Product Management Knowledge/Skills:
+### Product & Project Management Knowledge/Skills:
+- Real Time Hands on Experience on all Foundational departments of Business: Marketing(Lead Generation) & Sales(Revenue Generation) | Operations(Value & Happiness) | R&D(Product or Service) | Accounts(Compliance & Reporting ) | HR (Recruitment, People Development & Happiness ) | Finally Strategic Management-Functional and People Management.
+- Agile Methodologies: Scrum Artefacts, Events, Accountabilities, Product Backlog Mgmt, Release Mgmt, Forecasting.
 - Design Thinking, Market, Users, Vision, Strategy, Wireframes, Usability Testing, Agile-Scrum, Epics, User Stories, PRDs, Metrics of Product Analytics.
-- Relevant Frameworks: PESTEL, Porters 5 Forces, SPIN, BMC, AARRR, RARRA, JBTD, RFM, HOOK, RICE(prioritization), Ansoff Matrix for Prod release, Growth Hacking: [Analyze, Ideate, Priortize, Test] Framework 
-- Customer Life Cycle: Fraud Detection, Shipment Delivery Optimization, Customer Feedback and Sentiment Analysis
+- Relevant Frameworks: PESTEL, Porters 5 Forces, SWOT, SPIN, BMC, AARRR, RARRA, JBTD, RFM, HOOK, RICE(prioritization), Ansoff Matrix for Prod release, Growth Hacking: [Analyze, Ideate, Priortize, Test] Framework 
+- Structured Problem Solving Frameworks: CRISP-DM, 5Ws, 5Whys, Issue Tree Framework, SPIN(Situation, Problem, Implication, Need Payoff), BMC(Business Model Canvas), 7P and 5C Frameworks for Marketing, SWOT analysis.
+- **PRINCE2 Foundation and Practitioner Certified Project Management Skills**
+- **PSM1 (Professional Scrum Master1) and PSPO1(Professional Scrum Product Owner1) Certifications**
 
 
-### People Handling Traits:
-- Efficient Stakeholder management. Customer/Relationship Oriented-Part of Solution rather than part of Problem, Start with Why Approach
+### Leadership Team and People Handling Traits:
+- My Transferrable Timeless Entrepreneurial Skill Include: Focus & Deep Work, Conscientiousness, Integrity, Intellectual Curiosity, Proactive, Resilience during Uncertainty, Think win-win and Synergize, De Bono 6 Hat Thinking, Long Term Strategic Thinking, Good Product & Business Lifecycle Judgment. 
 - Decentralized management by trusting people, vision focused.
 - Strong Communicator and negotiator: Listening, Speaking, Reading, Writing
-- Proactive, Begin with End in Mind, Organised and long term strategic thinking, Think Win-Win and Synergize
+- Stakeholder management in Business Strategy, Product Vision, and Product Goal. | Negotiation | Attention to Detail | Building teams | Part of Solution rather than part of Problem, Start with Why Approach
 - Effective balance of the left(logical, literal, linguisitc) brain and right(intuitive, creative) brain
 
 
